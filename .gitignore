@@ -1,0 +1,6 @@
+.DS_Store
+.presite
+*.local
+dist
+node_modules
+publish

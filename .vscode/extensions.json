@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "antfu.i18n-ally",
+    "bradlc.vscode-tailwindcss",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "gruntfuggly.todo-tree",
+    "heybourn.headwind",
+    "mhutchie.git-graph",
+    "octref.vetur",
+    "quicktype.quicktype",
+    "ricard.postcss",
+    "richie5um2.vscode-sort-json"
+  ]
+}
