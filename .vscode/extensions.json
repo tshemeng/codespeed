@@ -13,6 +13,7 @@
     "octref.vetur",
     "quicktype.quicktype",
     "ricard.postcss",
-    "richie5um2.vscode-sort-json"
+    "richie5um2.vscode-sort-json",
+    "znck.vue-language-features"
   ]
 }
